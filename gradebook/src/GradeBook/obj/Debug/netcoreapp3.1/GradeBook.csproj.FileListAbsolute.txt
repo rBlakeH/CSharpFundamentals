@@ -1,0 +1,12 @@
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/blakeham/Desktop/iTEAM/CSharpFundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
