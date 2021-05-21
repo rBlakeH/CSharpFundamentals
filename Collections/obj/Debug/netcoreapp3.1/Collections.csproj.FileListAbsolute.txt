@@ -1,0 +1,12 @@
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/bin/Debug/netcoreapp3.1/Collections.deps.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.dev.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/bin/Debug/netcoreapp3.1/Collections.dll
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/bin/Debug/netcoreapp3.1/Collections.pdb
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.csprojAssemblyReference.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfoInputs.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfo.cs
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.csproj.CoreCompileInputs.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.dll
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.pdb
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/Collections/obj/Debug/netcoreapp3.1/Collections.genruntimeconfig.cache

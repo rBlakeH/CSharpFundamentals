@@ -1,0 +1,12 @@
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.csprojAssemblyReference.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.AssemblyInfoInputs.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.AssemblyInfo.cs
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.csproj.CoreCompileInputs.cache
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/bin/Debug/netcoreapp3.1/Movies.deps.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/bin/Debug/netcoreapp3.1/Movies.runtimeconfig.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/bin/Debug/netcoreapp3.1/Movies.runtimeconfig.dev.json
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/bin/Debug/netcoreapp3.1/Movies.dll
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/bin/Debug/netcoreapp3.1/Movies.pdb
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.dll
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.pdb
+/Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.genruntimeconfig.cache
