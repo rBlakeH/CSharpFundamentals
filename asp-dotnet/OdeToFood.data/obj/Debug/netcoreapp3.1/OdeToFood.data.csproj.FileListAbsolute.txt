@@ -1,0 +1,4 @@
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.csproj.AssemblyReference.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.AssemblyInfoInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.AssemblyInfo.cs
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.csproj.CoreCompileInputs.cache

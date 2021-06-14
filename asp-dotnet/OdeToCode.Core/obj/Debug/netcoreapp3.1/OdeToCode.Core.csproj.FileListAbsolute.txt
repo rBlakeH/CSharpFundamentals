@@ -1,0 +1,9 @@
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\bin\Debug\netcoreapp3.1\OdeToCode.Core.deps.json
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\bin\Debug\netcoreapp3.1\OdeToCode.Core.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\bin\Debug\netcoreapp3.1\OdeToCode.Core.pdb
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.csproj.AssemblyReference.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.AssemblyInfoInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.AssemblyInfo.cs
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.csproj.CoreCompileInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToCode.Core\obj\Debug\netcoreapp3.1\OdeToCode.Core.pdb

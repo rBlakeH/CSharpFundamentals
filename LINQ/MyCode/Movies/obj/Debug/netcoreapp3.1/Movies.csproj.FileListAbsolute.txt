@@ -10,3 +10,9 @@
 /Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.dll
 /Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.pdb
 /Users/blakeham/Desktop/cleanme/iTEAM/CSharpFundamentals/LINQ/MyCode/Movies/obj/Debug/netcoreapp3.1/Movies.genruntimeconfig.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.AssemblyReference.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\LINQ\MyCode\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
