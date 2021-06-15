@@ -8,25 +8,23 @@ namespace OdeToFood.data
 {
   public interface BarData
     {
-        IEnumerable<Bars> GetAll();
+        IEnumerable<BarsClass> GetAll();
 
         public class InMemBarData : BarData
         {
-            public List<Bars> bars;
+            public List<BarsClass> bars;
             
             public InMemBarData()
             {
-                bars = new List<Bars>();
+                bars = new List<BarsClass>
                 {
-                    new Bars {ID =1, Name = "Blakes Bar", Location ="ABQ", Type=BarType.Beer},
-                    new Bars {ID =2, Name = "Pub Place", Location ="DFW", Type= BarType.Whiskey},
-                    new Bars {ID =3, Name = "Werido Wine", Location ="NYW", Type=BarType.Wine},
-
+                    new BarsClass { ID = 1, Name = "Blakes Bar", Location = "ABQ", Type = BarType.Beer },
+                    new BarsClass { ID = 2, Name = "Pub Place", Location = "DFW", Type = BarType.Whiskey },
+                    new BarsClass { ID = 3, Name = "Werido Wine", Location = "NYW", Type = BarType.Wine }
                 };
-
             }
 
-            IEnumerable<Bars> BarData.GetAll()
+            IEnumerable<BarsClass> BarData.GetAll()
             {
                 return bars.OrderBy(b => b.Name).ToList();
             }

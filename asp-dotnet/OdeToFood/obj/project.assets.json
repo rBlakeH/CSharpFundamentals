@@ -2,21 +2,21 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "OdeToFood.Core/1.0.0": {
+      "OdeToCode.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/OdeToFood.Core.dll": {}
+          "bin/placeholder/OdeToCode.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OdeToFood.Core.dll": {}
+          "bin/placeholder/OdeToCode.Core.dll": {}
         }
       },
       "OdeToFood.data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "OdeToFood.Core": "1.0.0"
+          "OdeToCode.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/OdeToFood.data.dll": {}
@@ -28,10 +28,10 @@
     }
   },
   "libraries": {
-    "OdeToFood.Core/1.0.0": {
+    "OdeToCode.Core/1.0.0": {
       "type": "project",
-      "path": "../OdeToCode.Core/OdeToFood.Core.csproj",
-      "msbuildProject": "../OdeToCode.Core/OdeToFood.Core.csproj"
+      "path": "../OdeToCode.Core/OdeToCode.Core.csproj",
+      "msbuildProject": "../OdeToCode.Core/OdeToCode.Core.csproj"
     },
     "OdeToFood.data/1.0.0": {
       "type": "project",

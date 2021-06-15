@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "OdeToFood.Core/1.0.0": {
+      "OdeToCode.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/OdeToFood.Core.dll": {}
+          "bin/placeholder/OdeToCode.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OdeToFood.Core.dll": {}
+          "bin/placeholder/OdeToCode.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "OdeToFood.Core/1.0.0": {
+    "OdeToCode.Core/1.0.0": {
       "type": "project",
-      "path": "../OdeToCode.Core/OdeToFood.Core.csproj",
-      "msbuildProject": "../OdeToCode.Core/OdeToFood.Core.csproj"
+      "path": "../OdeToCode.Core/OdeToCode.Core.csproj",
+      "msbuildProject": "../OdeToCode.Core/OdeToCode.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "OdeToFood.Core >= 1.0.0"
+      "OdeToCode.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,8 +60,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj"
+            "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj": {
+              "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj"
             }
           }
         }

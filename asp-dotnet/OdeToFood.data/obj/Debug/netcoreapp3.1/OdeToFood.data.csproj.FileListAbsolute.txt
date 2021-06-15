@@ -2,3 +2,11 @@ C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.AssemblyInfoInputs.cache
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.AssemblyInfo.cs
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.csproj.CoreCompileInputs.cache
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\bin\Debug\netcoreapp3.1\OdeToFood.data.deps.json
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\bin\Debug\netcoreapp3.1\OdeToFood.data.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\bin\Debug\netcoreapp3.1\OdeToFood.data.pdb
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\bin\Debug\netcoreapp3.1\OdeToCode.Core.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\bin\Debug\netcoreapp3.1\OdeToCode.Core.pdb
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.csproj.CopyComplete
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood.data\obj\Debug\netcoreapp3.1\OdeToFood.data.pdb

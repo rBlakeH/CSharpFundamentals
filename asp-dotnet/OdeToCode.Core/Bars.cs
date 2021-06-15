@@ -5,7 +5,7 @@ using System.Text;
 namespace OdeToCode.Core
 {
 
-    public class Bars
+    public class BarsClass
     {
         public string Name{ get; set; }
         public string Location { get; set; }

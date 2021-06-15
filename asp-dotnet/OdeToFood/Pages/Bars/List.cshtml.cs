@@ -1,4 +1,4 @@
-using OdeToFood.core;
+using OdeToCode.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,17 +17,19 @@ namespace OdeToFood.Pages.Bars
         private readonly BarData barData;
 
         public string message { get; set; }
-        public IEnumerable<bars> Bars { get; set; }
+        public IEnumerable<BarsClass> BarsList { get; set; }
 
         public ListModel(IConfiguration config, BarData barData)
         {
             this.config = config;
             this.barData = barData;
+            BarsList = BarData.InMemBarData.bars;
         }
 
         public void OnGet()
         {
             message = config["Message"];
+            BarsList = this.BarsList;
         }
     }
 }

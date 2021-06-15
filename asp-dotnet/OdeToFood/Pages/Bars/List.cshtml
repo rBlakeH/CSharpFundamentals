@@ -3,6 +3,11 @@
 @{
     <h1>BARS!</h1>
 
+    @foreach( var item in Model.BarsList)
+            {
+               <h1>@item.Name</h1>
+            }
+
     @Model.message
 
 }

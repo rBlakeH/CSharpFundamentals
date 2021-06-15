@@ -36,3 +36,7 @@ C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\obj\Debug
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Bars\List.cshtml.g.cs
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.Core.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.data.dll
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.data.pdb
+C:\Users\bhampton\source\repos\CSharpFundamentals\asp-dotnet\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.Core.pdb

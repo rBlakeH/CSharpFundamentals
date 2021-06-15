@@ -4,12 +4,12 @@
     "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj": {
+    "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj",
-        "projectName": "OdeToFood.Core",
-        "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj",
+        "projectName": "OdeToCode.Core",
+        "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj",
         "packagesPath": "C:\\Users\\bhampton\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToFood.Core.csproj"
+              "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj": {
+                "projectPath": "C:\\Users\\bhampton\\source\\repos\\CSharpFundamentals\\asp-dotnet\\OdeToCode.Core\\OdeToCode.Core.csproj"
               }
             }
           }
